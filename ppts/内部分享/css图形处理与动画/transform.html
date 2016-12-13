@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+	<title>清楚浮动</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<style type="text/css">
+	div{
+		width: 200px;
+		height: 100px;
+		margin: 50px;
+		display: inline-block;
+		text-align: center;
+		vertical-align: middle;
+		line-height: 100px;
+	}
+	.d2{
+		background-color: red;
+	}
+	.a{
+		transform: rotate(45deg);
+	}
+	.b{
+		transform: translate(10px,20px);
+	}
+	.c{
+		transform: skew(45deg);
+	}
+	.d{
+		transform: scale(1.5,.5)
+	}
+
+	.d3{
+		background-color: green;
+	}
+	.e{
+		transform: rotate3d(1,2,1,45deg);
+	}
+	.f{
+
+		transform: translate3d(10px,20px,20px);
+	}
+	.g{
+		transform: skew(45deg);
+	}
+	.h{
+		background-color: red;
+		transform: scale(1.5,.5) translate3d(10px,20px,30px);
+	}
+
+</style>
+<h4>tranform2D</h4>
+<div class="d2 a">A(rotate)</div>
+<div class="d2 b">B(translate)</div>
+<div class="d2 c">C(skew)</div>
+<div class="d2 d">D(scale)</div>
+
+<h4>transform3D</h4>
+<div class="d3 e">E</div>
+<div class="d3 f">F</div>
+<div class="d3 g">G</div>
+<div class="d3 h">H</div>
+
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+	<title>清楚浮动</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<style type="text/css">
+	div{
+		height: auto;
+	}
+	.a{
+		width: 240px;
+		background-color: red;
+		border: 1px red solid;
+		/*float: left;*/
+		overflow: hidden;
+		/*display: table;*/
+	}
+	.a:after{
+		/*display: block;
+		content: " ";
+		clear: both;*/
+	}
+	.b{
+		width: 100px;
+		height: 100px;
+		background-color: green;
+		margin: 0 5px;
+		float: left;
+	}
+	.c{
+		/*clear: both;*/
+	}
+	br{
+		/*clear: both;*/
+	}
+
+	/* 	1, 父元素浮动  原理
+		2, overflow不为none;  原理
+		3, 设置父元素高度
+		4, 空元素clear:both
+		5, after伪类
+		6, display:table
+		
+
+		BFC:
+		http://www.w3.org/TR/CSS21/visudet.html#normal-block
+		http://www.w3.org/TR/CSS2/visudet.html#root-height
+
+		推荐2,5
+		*/
+</style>
+<div class="a">
+	<div class="b"></div>
+	<div class="b"></div>
+	<div class="c"></div>
+
+	<br/>
+</div>
+</body>
+</html>

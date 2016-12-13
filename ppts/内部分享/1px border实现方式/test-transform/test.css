@@ -1,0 +1,73 @@
+.container .myonepx:before {
+  content: ' ';
+  display: block;
+  border-top: 1px solid #666666;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+.container .myonepx {
+  position: relative;
+}
+.container .myonepx:before {
+  top: 0;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
+  .container .myonepx:before {
+    -webkit-transform: scaleY(0.7);
+    transform: scaleY(0.7);
+    -webkit-transform-origin: left top;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  .container .myonepx:before {
+    -webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+    -webkit-transform-origin: left top;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+  .container .myonepx:before {
+    -webkit-transform: scaleY(0.3);
+    transform: scaleY(0.3);
+    -webkit-transform-origin: left top;
+  }
+}
+
+.hello:after {
+  content: ' ';
+  display: block;
+  border-top: 1px solid "#777";
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.hello {
+  position: relative;
+}
+.hello:after {
+  top: 0;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
+  .hello:after {
+    -webkit-transform: scaleY(0.7);
+    transform: scaleY(0.7);
+    -webkit-transform-origin: left bottom;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  .hello:after {
+    -webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+    -webkit-transform-origin: left bottom;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+  .hello:after {
+    -webkit-transform: scaleY(0.3);
+    transform: scaleY(0.3);
+    -webkit-transform-origin: left bottom;
+  }
+}

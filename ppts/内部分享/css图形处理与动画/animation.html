@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+	<title>animation</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<style type="text/css">
+	div{
+		width: 200px;
+		height: 100px;
+		margin: 50px;
+		display: inline-block;
+		line-height: 100px;
+	}
+	.b{
+		-webkit-animation: 'd2' 2s ease-in 5 alternate;
+		position: relative;
+	}
+
+	@-webkit-keyframes 'd2' {
+	     0% {
+	        width: 100px;
+	        height: 100px;
+	        background: green;
+	     }
+	     
+	     100% {
+	        width: 120px;
+	        height: 120px;
+	        background: red;
+	     }
+	  }
+
+	.a{
+		-webkit-animation: 'd3' 5s ease-in 5 alternate;
+		background:-webkit-linear-gradient(top,orange,green);
+	}
+	@-webkit-keyframes 'd3' {
+	     0% {
+	        transform: rotate3d(1,1,1,45deg);
+	     }
+	     40% {
+	        transform: translate3d(10px,20px,20px);
+	     }
+	     60% {
+	        transform: skew(45deg);
+	     }
+	     100% {
+	        transform: scale(1.5,.5) translate3d(10px,20px,30px);
+	     }
+	  }
+
+
+
+</style>
+<h4>animation3d</h4>
+<div class="a">A(rotate)</div>
+
+<h4>animation2d</h4>
+<div class="b">E</div>
+
+</body>
+</html>

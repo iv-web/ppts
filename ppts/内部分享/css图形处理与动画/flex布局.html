@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+	<meta charset="utf-8">
+	<title>清楚浮动</title>
+	<style type="text/css">
+	html,body{
+		height: 100%;
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	body{
+		display: flex;
+		flex-flow: column;
+	}
+	.flex{
+		display: flex;
+		flex-flow: row;
+		height: 100px;
+	}
+	.a,.b,.c{
+		overflow: hidden;
+	}
+	.a{
+		background-color: red;
+		flex:1;
+	}
+	.b{
+		background-color: blue;
+		width: 100px;
+	}
+	.c{
+		background-color: green;
+		flex:1;
+	}
+	.top,.bottom{
+		flex:1;
+		background-color: #ccc;
+	}
+	</style>
+</head>
+<body>
+	<div class="top"></div>
+	<div class="flex">
+		<div class="a">Node采用一系列“非阻塞”库来支持事件循环的方式。本质上就是为文件系统、数据库或是其他软件的驱动，但还有很多是凭他们的实力制作出来的非常有用的软件。</div>
+		<div class="b">Node采用一系列“非阻塞”库来支持事件循环的方式。本质上就是为文件系统、库或是其他软件的驱动，但还有很多是凭他们的实力制作出来的非常有用的软件。</div>
+		<div class="c">Node采用一系列是其他软件的驱动，但还有很多是凭他们的实力制作出来的非常有用的软件。</div>
+	</div>
+	<div class="bottom"></div>
+</body>
+</html>

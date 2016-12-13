@@ -1,0 +1,7 @@
+@import "onepx";
+
+.container {
+  @include onepx('.myonepx');
+}
+
+@include onepx('.hello', 'bottom', 'after', '#777');

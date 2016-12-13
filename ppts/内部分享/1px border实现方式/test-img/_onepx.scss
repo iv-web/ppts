@@ -1,0 +1,30 @@
+@mixin onepx($selector, $position: bottom, $color: #666, $onepxImgDirname: './img/linenew.png') {
+  #{$selector} {
+    border-#{$position}: 1px solid $color;
+  }
+
+  @media only screen and (-webkit-min-device-pixel-ratio:2) {
+    #{$selector} {
+      border-#{$position}: none;
+      @if $position == 'bottom' {
+        border-width: 0 0 1px 0;
+        -webkit-border-image: url($onepxImgDirname) 0 0 2 0 stretch;
+        border-image: url($onepxImgDirname) 0 0 2 0 stretch;
+      } @else if $position == 'top' {
+        border-width: 1px 0 0 0;
+        -webkit-border-image: url($onepxImgDirname) 2 0 0 0 stretch;
+        border-image: url($onepxImgDirname) 2 0 0 0 stretch;
+      } @else if $position == 'right' {
+        border-width: 0 1px 0 0;
+        -webkit-border-image: url($onepxImgDirname) 0 2 0 0 stretch;
+        border-image: url($onepxImgDirname) 0 2 0 0 stretch;
+      } @else if $position == 'left' {
+        border-width: 0 0 0 1px;
+        -webkit-border-image: url($onepxImgDirname) 0 0 0 2 stretch;
+        border-image: url($onepxImgDirname) 0 0 0 2 stretch;
+      }
+      
+      
+    }
+  }
+}

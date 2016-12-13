@@ -1,0 +1,8 @@
+@import "onepx";
+
+.container {
+  @include onepx('.myonepx', 'top', '#666', './img/linenew.png');
+}
+
+@include onepx('.border-top', 'top');
+@include onepx('.border-bottom');

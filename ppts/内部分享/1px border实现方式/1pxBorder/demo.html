@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no"/>
+    <style>
+		
+		.border-image-1px{
+			border-bottom: 1px solid #666;
+			padding: 10px;
+			margin: 10px;
+			width: 400px;
+			height: 300px;
+			background-color: #eee;
+		}
+
+		@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+			.border-image-1px {
+				border-bottom: none;
+				border-width: 0 0 1px 0;
+				-webkit-border-image: url(Untitled-1.png) 0 0 2 0 stretch;
+				border-image: url(Untitled-1.png) 0 0 2 0 stretch;
+			}
+		}
+	</style>
+</head>
+<body>
+	<!-- 1px border on Retina -->
+	<div class="border-image-1px">
+		兼容视网膜（设备像素比为2）和非视网膜屏
+	<div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+.container .myonepx {
+  border-top: 1px solid "#666";
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  .container .myonepx {
+    border-top: none;
+    border-width: 1px 0 0 0;
+    -webkit-border-image: url("./img/linenew.png") 2 0 0 0 stretch;
+    border-image: url("./img/linenew.png") 2 0 0 0 stretch;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #666666;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  .border-top {
+    border-top: none;
+    border-width: 1px 0 0 0;
+    -webkit-border-image: url("./img/linenew.png") 2 0 0 0 stretch;
+    border-image: url("./img/linenew.png") 2 0 0 0 stretch;
+  }
+}
+.border-bottom {
+  border-bottom: 1px solid #666666;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  .border-bottom {
+    border-bottom: none;
+    border-width: 0 0 1px 0;
+    -webkit-border-image: url("./img/linenew.png") 0 0 2 0 stretch;
+    border-image: url("./img/linenew.png") 0 0 2 0 stretch;
+  }
+}

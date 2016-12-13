@@ -1,0 +1,43 @@
+@import "reset";
+
+.border-top:before, .border-bottom:after{
+    content: ' ';
+    display: block;
+    border-top: 1px solid #e1e1e1;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.border-top {
+    position: relative;
+    &:before {
+        top: 0;
+    }
+}
+
+.border-bottom {
+    position: relative;
+    &:after {
+        bottom: 0;
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
+    .border-top:before, .border-bottom:after {
+        -webkit-transform: scaleY(.7);
+        transform: scaleY(.7);
+        -webkit-transform-origin: left bottom;
+    }
+
+    .border-top:before {
+        -webkit-transform-origin: left top;
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2.0) {
+    .border-top:before, .border-bottom:after {
+        -webkit-transform: scaleY(.5);
+        transform: scaleY(.5);
+    }
+}

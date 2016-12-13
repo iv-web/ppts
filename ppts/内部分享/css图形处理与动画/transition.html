@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+	<title>transition</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<style type="text/css">
+	div{
+		width: 200px;
+		height: 100px;
+		margin: 50px;
+		display: inline-block;
+		text-align: center;
+		vertical-align: middle;
+		line-height: 100px;
+		-webkit-transition: all .5s ease-in-out .2s;
+	}
+	div:hover{
+		cursor: pointer;
+		background-color: blue;
+	}
+	.d2{
+		background-color: red;
+	}
+
+	.a:hover{
+		transform: rotate(45deg);
+	}
+	.b:hover{
+		transform: translate(10px,20px);
+	}
+	.c:hover{
+		transform: skew(45deg);
+	}
+	.d:hover{
+		transform: scale(1.5,.5)
+	}
+
+	.d3{
+		background-color: green;
+	}
+	.e:hover{
+		transform: rotate3d(1,1,1,45deg);
+	}
+	.f:hover{
+
+		transform: translate3d(10px,20px,20px);
+	}
+	.g:hover{
+		transform: skew(45deg);
+	}
+	.h:hover{
+		background-color: red;
+		transform: scale(1.5,.5) translate3d(10px,20px,30px);
+	}
+
+</style>
+<h4>tranform2D</h4>
+<div class="d2 a">A(rotate)</div>
+<div class="d2 b">B(translate)</div>
+<div class="d2 c">C(skew)</div>
+<div class="d2 d">D(scale)</div>
+
+<h4>transform3D</h4>
+<div class="d3 e">E</div>
+<div class="d3 f">F</div>
+<div class="d3 g">G</div>
+<div class="d3 h">H</div>
+
+</body>
+</html>

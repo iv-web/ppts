@@ -1,0 +1,1 @@
+sass --scss --style expanded test.scss test.css
