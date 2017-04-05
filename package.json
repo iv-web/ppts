@@ -1,0 +1,23 @@
+{
+    "name": "ppts",
+    "version": "0.1.0",
+    "node_version": "*",
+    "description": "ppt by ivweb team",
+    "author": "herbertliu <herbertliuliuhb@gmail.com> (https://github.com/herbertliu)",
+    "contributors": [
+    ],
+    "license": "MIT",
+    "repository": {
+    },
+    "devDependencies": {
+        "commitizen": "^2.3.0",
+        "validate-commit-msg": "^2.11.1",
+        "conventional-changelog-cli": "^1.2.0",
+        "husky": "^0.13.1"
+    },
+    "scripts": {
+        "commitmsg": "validate-commit-msg",
+        "commit": "git-cz ",
+        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
+    }
+}
