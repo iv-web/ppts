@@ -13,12 +13,13 @@
 + [移动端 1px 边框实现方式](ppts/internal/1px%20border%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/1px.pdf) For IVWEB by [linkzhu](https://github.com/orgs/iv-web/people/zhulin2609)
 + [前端集成化解决方案](ppts/internal/%E9%9B%86%E6%88%90%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%20.pdf) For IVWEB by zhuoyingmo
 + [JavaScript正则表达式](http://slides.com/zhulin2609/javascript) For IVWEB by [linkzhu](https://github.com/orgs/iv-web/people/zhulin2609)
-+ [移动海量服务下基于React的高性能同构实践]() For JSConf 2016 by 梁伟盛
++ [移动海量服务下基于React的高性能同构实践](https://github.com/iv-web/ppts/blob/master/ppts/external/%E7%A7%BB%E5%8A%A8%E6%B5%B7%E9%87%8F%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%9F%BA%E4%BA%8EReact%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%8C%E6%9E%84%E5%AE%9E%E8%B7%B5ppt.pptx) For JSConf 2016 by 梁伟盛
 + [React+Redux组件化那些事] For IMwebconf 2016 by 梁伟盛
 + [python编写知乎爬虫实践](https://github.com/iv-web/ppts/blob/master/ppts/external/python%E7%BC%96%E5%86%99%E7%9F%A5%E4%B9%8E%E7%88%AC%E8%99%AB%E5%AE%9E%E8%B7%B5.pdf) For 码易极客Live by [程柳锋](https://github.com/orgs/iv-web/people/cpselvis)
 + 基于Node.js在CLI下的工程化体系实践For 开源中国 by [程柳锋](https://github.com/orgs/iv-web/people/cpselvis)
 + react同构之道 For 珠三角技术沙龙 by [杨春文](https://github.com/chenwery)
 + react同构之道 For Imweb Conf by [杨春文](https://github.com/chenwery)
 + 走进微信小程序的世界 For StuQ Live by [杨春文](https://github.com/chenwery)
-+ 从零搭建一个 React & npm 组件库 For StuQ Live by [何方舟](https://github.com/adamchuan)
-+ 不再碎片化学习，快速掌握 H5 直播技术 For Gitchat Live by [田淮仁](https://github.com/JimmyVV)
++ [从零搭建一个 React & npm 组件库](https://github.com/iv-web/ppts/blob/master/ppts/external/%E4%BB%8E%E9%9B%B6%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%20React%20%26%20npm%20%E7%BB%84%E4%BB%B6%E5%BA%93.pptx) For StuQ Live by [何方舟](https://github.com/adamchuan)
++ [不再碎片化学习，快速掌握 H5 直播技术](https://github.com/iv-web/ppts/blob/master/ppts/external/%E4%B8%8D%E5%86%8D%E7%A2%8E%E7%89%87%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%8E%8C%E6%8F%A1%20H5%20%E7%9B%B4%E6%92%AD%E6%8A%80%E6%9C%AF.md) For Gitchat Live by [田淮仁](https://github.com/JimmyVV)
++ 深入理解React-Native源码 For GMTC工作坊 by 莫卓颖
