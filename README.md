@@ -13,9 +13,12 @@
 + [移动端 1px 边框实现方式](ppts/internal/1px%20border%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/1px.pdf) For IVWEB by [linkzhu](https://github.com/orgs/iv-web/people/zhulin2609)
 + [前端集成化解决方案](ppts/internal/%E9%9B%86%E6%88%90%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%20.pdf) For IVWEB by zhuoyingmo
 + [JavaScript正则表达式](http://slides.com/zhulin2609/javascript) For IVWEB by [linkzhu](https://github.com/orgs/iv-web/people/zhulin2609)
++ [移动海量服务下基于React的高性能同构实践]() For JSConf 2016 by 梁伟盛
++ [React+Redux组件化那些事] For IMwebconf 2016 by 梁伟盛
 + [python编写知乎爬虫实践](https://github.com/iv-web/ppts/blob/master/ppts/external/python%E7%BC%96%E5%86%99%E7%9F%A5%E4%B9%8E%E7%88%AC%E8%99%AB%E5%AE%9E%E8%B7%B5.pdf) For 码易极客Live by [程柳锋](https://github.com/orgs/iv-web/people/cpselvis)
 + 基于Node.js在CLI下的工程化体系实践For 开源中国 by [程柳锋](https://github.com/orgs/iv-web/people/cpselvis)
 + react同构之道 For 珠三角技术沙龙 by [杨春文](https://github.com/chenwery)
 + react同构之道 For Imweb Conf by [杨春文](https://github.com/chenwery)
 + 走进微信小程序的世界 For StuQ Live by [杨春文](https://github.com/chenwery)
 + 从零搭建一个 React & npm 组件库 For StuQ Live by [何方舟](https://github.com/adamchuan)
++ 不再碎片化学习，快速掌握 H5 直播技术 For Gitchat Live by [田淮仁](https://github.com/JimmyVV)
