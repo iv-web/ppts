@@ -30,14 +30,13 @@
 - [如何构建高质量、高效率的前端体系](ppts/external/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E3%80%81%E9%AB%98%E6%95%88%E7%8E%87%E7%9A%84%E5%89%8D%E7%AB%AF%E4%BD%93%E7%B3%BB%20-zhuoying.pptx) For 腾讯技术开放日 by 莫卓颖
 - react同构之道 For 珠三角技术沙龙 by [杨春文](https://github.com/chenwery)
 - [移动端web开发调试](ppts/external/%E7%A7%BB%E5%8A%A8%E8%B0%83%E8%AF%95.pdf) For OPPO by [fishineyuan](https://github.com/orgs/iv-web/people/feix760)
+- [性能优化解决方案](ppts/external/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf) For OPPO by 莫卓颖
 - [python编写知乎爬虫实践](https://github.com/iv-web/ppts/blob/master/ppts/external/python%E7%BC%96%E5%86%99%E7%9F%A5%E4%B9%8E%E7%88%AC%E8%99%AB%E5%AE%9E%E8%B7%B5.pdf) For 码易极客Live by [程柳锋](https://github.com/orgs/iv-web/people/cpselvis)
-
 - [不再碎片化学习，快速掌握 H5 直播技术](https://github.com/iv-web/ppts/blob/master/ppts/external/%E4%B8%8D%E5%86%8D%E7%A2%8E%E7%89%87%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%8E%8C%E6%8F%A1%20H5%20%E7%9B%B4%E6%92%AD%E6%8A%80%E6%9C%AF.md) For Gitchat Live by [田淮仁](https://github.com/JimmyVV)
 
 ## 部分内部分享
-- [性能优化解决方案](ppts/external/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf) For OPPO by zhuoyingmo
 - [移动端 1px 边框实现方式](ppts/internal/1px%20border%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/1px.pdf) For IVWEB by [linkzhu](https://github.com/orgs/iv-web/people/zhulin2609)
-- [前端集成化解决方案](ppts/internal/%E9%9B%86%E6%88%90%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%20.pdf) For IVWEB by zhuoyingmo
+- [前端集成化解决方案](ppts/internal/%E9%9B%86%E6%88%90%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%20.pdf) For IVWEB by 莫卓颖
 - [JavaScript正则表达式](http://slides.com/zhulin2609/javascript) For IVWEB by [linkzhu](https://github.com/orgs/iv-web/people/zhulin2609)
 
 
