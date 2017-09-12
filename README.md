@@ -35,8 +35,8 @@
 - [不再碎片化学习，快速掌握 H5 直播技术](https://github.com/iv-web/ppts/blob/master/ppts/external/%E4%B8%8D%E5%86%8D%E7%A2%8E%E7%89%87%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%8E%8C%E6%8F%A1%20H5%20%E7%9B%B4%E6%92%AD%E6%8A%80%E6%9C%AF.md) For Gitchat Live by [田淮仁](https://github.com/JimmyVV)
 
 ## 部分内部分享
-- [移动端 1px 边框实现方式](ppts/internal/1px%20border%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/1px.pdf) For IVWEB by [linkzhu](https://github.com/orgs/iv-web/people/zhulin2609)
+- [移动端 1px 边框实现方式](ppts/internal/1px%20border%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/1px.pdf) For IVWEB by [朱林](https://github.com/orgs/iv-web/people/zhulin2609)
 - [前端集成化解决方案](ppts/internal/%E9%9B%86%E6%88%90%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%20.pdf) For IVWEB by 莫卓颖
-- [JavaScript正则表达式](http://slides.com/zhulin2609/javascript) For IVWEB by [linkzhu](https://github.com/orgs/iv-web/people/zhulin2609)
+- [JavaScript正则表达式](http://slides.com/zhulin2609/javascript) For IVWEB by [朱林](https://github.com/orgs/iv-web/people/zhulin2609)
 
 
