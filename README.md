@@ -15,6 +15,9 @@
 - [移动直播技术的极限优化与高效研发](https://github.com/herbertliu/sharing/blob/master/ppts/%E7%A7%BB%E5%8A%A8%E7%9B%B4%E6%92%AD%E6%8A%80%E6%9C%AF%E7%9A%84%E6%9E%81%E9%99%90%E4%BC%98%E5%8C%96%E4%B8%8E%E9%AB%98%E6%95%88%E7%A0%94%E5%8F%91-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD.pdf) For [开源中国] By [河伯](https://github.com/herbertliu)
 - [Node.js在CLI下的工程化体系实践](https://github.com/iv-web/ppts/blob/master/ppts/external/Node.js%E5%9C%A8CLI%E4%B8%8B%E5%B7%A5%E7%A8%8B%E5%8C%96%E4%BD%93%E7%B3%BB%E5%AE%9E%E8%B7%B5.pdf)For 开源中国 by [程柳锋](https://github.com/orgs/iv-web/people/cpselvis)
 
+## D2前端技术论坛分享
+- PWA 带来极速离线Web For D2 by [田淮仁](http://d2forum.alibaba-inc.com/#/index?_k=7exnjk)
+
 ## StuQ分享
 - [夯实移动Web优化基础知识](https://github.com/herbertliu/sharing/blob/master/ppts/%E5%A4%AF%E5%AE%9E%E7%A7%BB%E5%8A%A8Web%E4%BC%98%E5%8C%96%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
 - [大前端优化之路](https://github.com/herbertliu/sharing/blob/master/ppts/大前端优化之路-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
