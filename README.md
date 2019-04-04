@@ -11,7 +11,7 @@
 - [移动海量服务下基于React的高性能同构实践](https://github.com/iv-web/ppts/blob/master/ppts/external/%E7%A7%BB%E5%8A%A8%E6%B5%B7%E9%87%8F%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%9F%BA%E4%BA%8EReact%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%8C%E6%9E%84%E5%AE%9E%E8%B7%B5ppt.pptx) For JSConf 2016 by 梁伟盛
 
 ## GMTC分享
-- [GMTC 2018 《跨平台专场》出品人](https://gmtc.geekbang.org/track/352) by [河伯](https://github.com/herbertliu)
+- [GMTC 2018 《跨平台专场》出品人](https://gmtc2018.geekbang.org/track/352) by [河伯](https://github.com/herbertliu)
 - 深入理解React-Native源码 For GMTC工作坊 by 莫卓颖
 
 ## 开源中国分享
