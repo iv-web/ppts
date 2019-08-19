@@ -6,6 +6,7 @@
 ## QCon 分享
 - [Qcon 2019 《大前端技术》出品人](https://2019.qconguangzhou.com/track/553) by [河伯](https://github.com/herbertliu)
 - [Hybrid App下监控与极限优化](https://github.com/herbertliu/sharing/blob/master/ppts/Hybrid%20App%E4%B8%8B%E7%9B%91%E6%8E%A7%E4%B8%8E%E6%9E%81%E9%99%90%E4%BC%98%E5%8C%96-Qcon.pdf) For [Qcon](http://2015.qconshanghai.com/speakers/201931) By [河伯](https://github.com/herbertliu)
+- [PWA在企业级项目中最佳性能优化实践](https://github.com/iv-web/ppts/blob/master/ppts/external/PWA在企业级项目中最佳性能优化实践.pptx) For [Qcon](https://qcon.infoq.cn/2019/guangzhou/presentation/1553) by 梁伟盛
 
 ## JSConf分享
 - [移动海量服务下基于React的高性能同构实践](https://github.com/iv-web/ppts/blob/master/ppts/external/%E7%A7%BB%E5%8A%A8%E6%B5%B7%E9%87%8F%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%9F%BA%E4%BA%8EReact%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%8C%E6%9E%84%E5%AE%9E%E8%B7%B5ppt.pptx) For JSConf 2016 by 梁伟盛
