@@ -6,9 +6,13 @@
 ## QCon 分享
 - [Qcon 2019 《大前端技术》出品人](https://2019.qconguangzhou.com/track/553) by [河伯](https://github.com/herbertliu)
 - [Hybrid App下监控与极限优化](https://github.com/herbertliu/sharing/blob/master/ppts/Hybrid%20App%E4%B8%8B%E7%9B%91%E6%8E%A7%E4%B8%8E%E6%9E%81%E9%99%90%E4%BC%98%E5%8C%96-Qcon.pdf) For [Qcon](http://2015.qconshanghai.com/speakers/201931) By [河伯](https://github.com/herbertliu)
+- [PWA在企业级项目中最佳性能优化实践](https://github.com/iv-web/ppts/blob/master/ppts/external/PWA在企业级项目中最佳性能优化实践.pptx) For [Qcon](https://qcon.infoq.cn/2019/guangzhou/presentation/1553) by 梁伟盛
 
 ## JSConf分享
 - [移动海量服务下基于React的高性能同构实践](https://github.com/iv-web/ppts/blob/master/ppts/external/%E7%A7%BB%E5%8A%A8%E6%B5%B7%E9%87%8F%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%9F%BA%E4%BA%8EReact%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%8C%E6%9E%84%E5%AE%9E%E8%B7%B5ppt.pptx) For JSConf 2016 by 梁伟盛
+
+## Arch Summit
+- [腾讯 NOW 直播前端工程体系实践](http://ppt.geekbang.org/slide/download?cid=40&pid=2469) by [程柳锋](https://github.com/cpselvis) For [Arch Summit](https://sz2019.archsummit.com/presentation/1797)
 
 ## GMTC分享
 - [GMTC 2018 《跨平台专场》出品人](https://gmtc2018.geekbang.org/track/352) by [河伯](https://github.com/herbertliu)
@@ -24,7 +28,9 @@
 - [PWA 带来极速离线Web](https://github.com/iv-web/ppts/blob/master/ppts/external/pwa.pptx) For D2 by [田淮仁](http://d2forum.alibaba-inc.com/#/index?_k=7exnjk)
 
 ## 极客时间分享
-- [玩转webpack](https://github.com/cpselvis/geektime-webpack-course) For [极客时间](https://time.geekbang.org/course/intro/190)
+- [玩转webpack](https://github.com/cpselvis/geektime-webpack-course) by [程柳锋](https://github.com/cpselvis) For [极客时间](https://time.geekbang.org/course/intro/190)
+- [9小时搞定微信小程序开发](https://github.com/SuperJolly/wxapp-tutorial-code)  by [高磊](https://github.com/SuperJolly) For [极客时间](https://time.geekbang.org/course/intro/77)
+- 大家常说的前端工程化到底是什么？by [程柳锋](https://github.com/cpselvis) For [极客时间 Live]()
 
 ## StuQ分享
 - [夯实移动Web优化基础知识](https://github.com/herbertliu/sharing/blob/master/ppts/%E5%A4%AF%E5%AE%9E%E7%A7%BB%E5%8A%A8Web%E4%BC%98%E5%8C%96%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
