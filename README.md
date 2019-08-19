@@ -29,6 +29,7 @@
 
 ## 极客时间分享
 - [玩转webpack](https://github.com/cpselvis/geektime-webpack-course) by [程柳锋](https://github.com/cpselvis) For [极客时间](https://time.geekbang.org/course/intro/190)
+- [9小时搞定微信小程序开发](https://github.com/SuperJolly/wxapp-tutorial-code)  by [高磊](https://github.com/SuperJolly) For [极客时间](https://time.geekbang.org/course/intro/77)
 - 大家常说的前端工程化到底是什么？by [程柳锋](https://github.com/cpselvis) For [极客时间 Live]()
 
 ## StuQ分享
