@@ -2,6 +2,7 @@
 ## 腾讯LIVE开发者大会(TLC) 分享
 - [2017届 讲义](2017_TLC_ppts/)
 - [2018届 讲义](2018_TLC_ppts/)
+- [2019届 讲义](2019_TLC_ppts/)
 
 ## QCon 分享
 - [Qcon 2019 《大前端技术》出品人](https://2019.qconguangzhou.com/track/553) by [河伯](https://github.com/herbertliu)
