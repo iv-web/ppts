@@ -18,8 +18,8 @@
 ## GMTC分享
 - [GMTC 2018 《跨平台专场》出品人](https://gmtc2018.geekbang.org/track/352) by [河伯](https://github.com/herbertliu)
 - 深入理解React-Native源码 For GMTC工作坊 by 莫卓颖
-- [通过前端工程化将Apollo引入现有React技术栈]() For GMTC 2019 深圳 by [朱林](https://github.com/orgs/iv-web/people/zhulin2609)
-- [GraphQL技术进阶与实战]() For GMTC 2019 深圳 by [朱林](https://github.com/orgs/iv-web/people/zhulin2609)
+- [通过前端工程化将Apollo引入现有React技术栈](https://github.com/iv-web/ppts/blob/master/ppts/external/%E9%80%9A%E8%BF%87%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%B0%86Apollo%E5%BC%95%E5%85%A5%E7%8E%B0%E6%9C%89React%E6%8A%80%E6%9C%AF%E6%A0%88.pdf) For GMTC 2019 深圳 by [朱林](https://github.com/orgs/iv-web/people/zhulin2609)
+- [GraphQL技术进阶与实战](https://github.com/iv-web/ppts/blob/master/ppts/external/GraphQL%E6%8A%80%E6%9C%AF%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%AE%9E%E6%88%98.pdf) For GMTC 2019 深圳 by [朱林](https://github.com/orgs/iv-web/people/zhulin2609)
 
 ## 开源中国分享
 - [移动直播技术的极限优化与高效研发](https://github.com/herbertliu/sharing/blob/master/ppts/%E7%A7%BB%E5%8A%A8%E7%9B%B4%E6%92%AD%E6%8A%80%E6%9C%AF%E7%9A%84%E6%9E%81%E9%99%90%E4%BC%98%E5%8C%96%E4%B8%8E%E9%AB%98%E6%95%88%E7%A0%94%E5%8F%91-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD.pdf) For [开源中国] By [河伯](https://github.com/herbertliu)
