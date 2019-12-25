@@ -16,6 +16,8 @@
 - [腾讯 NOW 直播前端工程体系实践](http://ppt.geekbang.org/slide/download?cid=40&pid=2469) by [程柳锋](https://github.com/cpselvis) For [Arch Summit](https://sz2019.archsummit.com/presentation/1797)
 
 ## GMTC分享
+- [GMTC 2019 《大前端工程化》出品人](https://gmtc.infoq.cn/2019/shenzhen/track/678) by 梁伟盛
+- [GMTC 2019 《优化与全链路监控》出品人](https://gmtc.infoq.cn/2019/shenzhen/track/673) by [河伯](https://github.com/herbertliu)
 - [GMTC 2018 《跨平台专场》出品人](https://gmtc2018.geekbang.org/track/352) by [河伯](https://github.com/herbertliu)
 - 深入理解React-Native源码 For GMTC工作坊 by 莫卓颖
 - [通过前端工程化将Apollo引入现有React技术栈](https://github.com/iv-web/ppts/blob/master/ppts/external/%E9%80%9A%E8%BF%87%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%B0%86Apollo%E5%BC%95%E5%85%A5%E7%8E%B0%E6%9C%89React%E6%8A%80%E6%9C%AF%E6%A0%88.pdf) For GMTC 2019 深圳 by [朱林](https://github.com/orgs/iv-web/people/zhulin2609)
