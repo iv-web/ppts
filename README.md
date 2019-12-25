@@ -31,7 +31,7 @@
 
 ## D2前端技术论坛分享
 - [PWA 带来极速离线Web](https://github.com/iv-web/ppts/blob/master/ppts/external/pwa.pdf) For D2 by [田淮仁](http://d2forum.alibaba-inc.com/#/index?_k=7exnjk)
-- [基于WASM的H265播放器及在NOW直播中的实践](https://github.com/iv-web/ppts/blob/master/ppts/external/%E5%9F%BA%E4%BA%8EWebAssembly%E7%9A%84H265%E6%92%AD%E6%94%BE%E5%99%A8(d2)-outter.pdf) For D2 by [田淮仁](http://d2forum.alibaba-inc.com/#/index?_k=7exnjk)
+- [基于WASM的H265播放器及在NOW直播中的实践](https://github.com/iv-web/ppts/blob/master/ppts/external/%E5%9F%BA%E4%BA%8EWebAssembly%E7%9A%84H265%E6%92%AD%E6%94%BE%E5%99%A8(d2)-outter.pdf) For D2 by [程序猿小卡](https://github.com/chyingp)
 
 ## 极客时间分享
 - [玩转webpack](https://github.com/cpselvis/geektime-webpack-course) by [程柳锋](https://github.com/cpselvis) For [极客时间](https://time.geekbang.org/course/intro/190)
