@@ -66,6 +66,8 @@
 - [python编写知乎爬虫实践](https://github.com/iv-web/ppts/blob/master/ppts/external/python%E7%BC%96%E5%86%99%E7%9F%A5%E4%B9%8E%E7%88%AC%E8%99%AB%E5%AE%9E%E8%B7%B5.pdf) For 码易极客Live by [程柳锋](https://github.com/orgs/iv-web/people/cpselvis)
 - [不再碎片化学习，快速掌握 H5 直播技术](https://github.com/iv-web/ppts/blob/master/ppts/external/%E4%B8%8D%E5%86%8D%E7%A2%8E%E7%89%87%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%8E%8C%E6%8F%A1%20H5%20%E7%9B%B4%E6%92%AD%E6%8A%80%E6%9C%AF.md) For Gitchat Live by [田淮仁](https://github.com/JimmyVV)
 
+- [企业级项目基于PWA缓存的最佳实践](https://github.com/iv-web/ppts/blob/master/ppts/external/TWEB-%E4%BC%81%E4%B8%9A%E7%BA%A7%E9%A1%B9%E7%9B%AE%E5%9F%BA%E4%BA%8EPWA%E7%BC%93%E5%AD%98%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf) For TWEB by [sanglewang王涵冰(https://github.com/orgs/iv-web/people/sangle7)]
+
 ## 部分内部分享
 - [移动端 1px 边框实现方式](ppts/internal/1px%20border%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/1px.pdf) For IVWEB by [朱林](https://github.com/orgs/iv-web/people/zhulin2609)
 - [前端集成化解决方案](ppts/internal/%E9%9B%86%E6%88%90%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%20.pdf) For IVWEB by 莫卓颖
