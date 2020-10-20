@@ -14,7 +14,7 @@
 - [移动海量服务下基于React的高性能同构实践](https://github.com/iv-web/ppts/blob/master/ppts/external/%E7%A7%BB%E5%8A%A8%E6%B5%B7%E9%87%8F%E6%9C%8D%E5%8A%A1%E4%B8%8B%E5%9F%BA%E4%BA%8EReact%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%8C%E6%9E%84%E5%AE%9E%E8%B7%B5ppt.pdf) For JSConf 2016 by 梁伟盛
 
 ## Arch Summit
-- [腾讯 NOW 直播前端工程体系实践](http://ppt.geekbang.org/slide/download?cid=40&pid=2469) by [程柳锋](https://github.com/cpselvis) For [Arch Summit](https://sz2019.archsummit.com/presentation/1797)
+- [腾讯 NOW 直播前端工程体系实践](http://ppt.geekbang.org/slide/download?cid=40&pid=2469) [@ppt](https://github.com/iv-web/ppts/blob/master/ppts/external/%E7%A8%8B%E6%9F%B3%E5%B3%B0_%E3%80%8A%E8%85%BE%E8%AE%AFNOW%E7%9B%B4%E6%92%AD%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%BD%93%E7%B3%BB%E5%AE%9E%E8%B7%B5%E3%80%8B_as%202019.pdf) by [程柳锋](https://github.com/cpselvis) For [Arch Summit](https://sz2019.archsummit.com/presentation/1797)
 
 ## GMTC分享
 - [GMTC 2019 《大前端工程化》出品人](https://gmtc.infoq.cn/2019/shenzhen/track/678) by 梁伟盛
